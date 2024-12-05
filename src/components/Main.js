@@ -4,8 +4,8 @@ import Input from "./Input";
 import Card from "./Card";
 
 const Main = () => {
-  const [user, setUser] = useState("swamithedev");
-  const [choice, setChoice] = useState("swamithedev");
+  const [user, setUser] = useState("sumitvi");
+  const [choice, setChoice] = useState("sumitvi");
   const [error, setError] = useState("");
 
   const changeUser = (newUser) => {
